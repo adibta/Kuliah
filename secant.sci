@@ -1,4 +1,5 @@
 //Metode Secant
+//hasilf.sci harap diload terlebih dahulu
 //function[x] = secant(A,x0,x1)
 //A merupakan vektor kolom yang memenuhi kriteria
 //[A0 A1 A2 A3 ... An]

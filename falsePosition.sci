@@ -1,4 +1,5 @@
 //Metode falsePosition 
+//hasilf.sci harap diload terlebih dahulu
 //function[x] = falsePosition(A,low,up)
 //A merupakan vektor kolom yang memenuhi kriteria
 //[A0 A1 A2 A3 ... An]

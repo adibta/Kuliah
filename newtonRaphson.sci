@@ -1,4 +1,6 @@
 //Metode Newton Raphson 
+//hasilf.sci harap diload terlebih dahulu
+//hasilff.sci harap diload terlebih dahulu
 //function[x] = newtonRaphson(A,x1)
 //A merupakan vektor kolom yang memenuhi kriteria
 //[A0 A1 A2 A3 ... An]
