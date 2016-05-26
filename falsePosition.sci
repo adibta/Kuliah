@@ -24,5 +24,6 @@ function[x] =falsePosition(A,low,up)
         end    
     else
         disp("Batas bawah atau batas atas tidak memenuhi persyaratan")
+        abort
     end
 endfunction

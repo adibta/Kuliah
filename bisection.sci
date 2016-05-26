@@ -23,5 +23,6 @@ function[x] =bisection(A,low,up)
         end    
     else
         disp("Akar persamaan tidak terdapat pada batas atas dan batas bawah")
+        abort
     end
 endfunction
