@@ -14,8 +14,6 @@ int main(){
 	for(int t = 0;t < tCase; t++){
 		
 		//Tulis Program disini
-		//i.e
-		Implementasi();
 		
 		cout<<"Case #"<<t+1<<" : ";
 		//Tulis Output disini
