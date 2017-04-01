@@ -4,7 +4,7 @@
 //   Input : testCase(wajib), dll
 //   Output : 
 //   Case #1 : out1
-//   Case #1 : out1
+//   Case #2 : out2
 //   dst
 #include<iostream>
 using namespace std;
@@ -39,7 +39,7 @@ int kpk(int a,int b)
 }
 
 //#####################################################
-//#3 Mencetak Array
+//#3 Mencetak isi Array
 //   Input : pointer Array, jumlah indek Array
 //   Output : isi array dipisah spasi
 void PrintArray(int X[],int n)
